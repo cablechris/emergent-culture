@@ -99,11 +99,11 @@ See `requirements.txt` for a complete list of dependencies.
 If you use this code in your research, please cite our paper:
 
 ```
-@article{emergent_culture_2023,
+@article{cable_culture_2025,
   title={Culture Without Function: Modeling Emergent Coordination through Costly Signals and Social Learning},
-  author={[Your Name]},
-  journal={[Journal Name]},
-  year={2023}
+  author={Cable, Chris},
+  journal={N/A},
+  year={2025}
 }
 ```
 
